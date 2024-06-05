@@ -8,6 +8,7 @@ evaluasi untuk mentoring 12 Juni 2024:
 4. Coba bikin baseline (tanpa machine learning)
 5. deepdive ke data
 6. Bedah RFM
+
 coba gunakan feature lain misalnya promo code  (optional)
 
 
